@@ -1,0 +1,5 @@
+- 👋 Hi, I’m DearMerlin
+- 👀 I’m interested in collecting useful information by using Python.
+- 🌱 I’m currently learning MySQL, git, linux command, pytest and so on.
+- 💞️ I’m looking to collaborate on automatic software-testing.
+- 📫 Guys can reach me by my wechat account: Dear_Merlin. Pls remark how you find me~
